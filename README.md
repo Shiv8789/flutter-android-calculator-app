@@ -1,4 +1,4 @@
-# myappone
+# Calculator Flutter Android App
 
 A new Flutter project.
 
